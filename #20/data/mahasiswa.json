@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "nama" : "Naufal Harits P",
@@ -27,4 +28,35 @@
         "jurusan" : "Teknik Informatika",
         "idDosenWali" : 4
     }
+=======
+[
+    {
+        "nama" : "Naufal Harits P",
+        "nim" : "432022510141",
+        "email" : "naufal@gmail.com",
+        "jurusan" : "Teknik Informatika",
+        "idDosenWali" : 1
+    },
+    {
+        "nama" : "Naufal",
+        "nim" : "432022542521",
+        "email" : "naufal@gmail.com",
+        "jurusan" : "Teknik Mesin",
+        "idDosenWali" : 2
+    },
+    {
+        "nama" : "Harits Prasetia",
+        "nim" : "43202251013331",
+        "email" : "hartisras@gmail.com",
+        "jurusan" : "Teknik Informatika",
+        "idDosenWali" : 3
+    },
+    {
+        "nama" : "Prasetia",
+        "nim" : "4320225101311",
+        "email" : "prasetia@gmail.com",
+        "jurusan" : "Teknik Informatika",
+        "idDosenWali" : 4
+    }
+>>>>>>> 4fb65fd550635fe36a4b65887b1dbc1be98b2d42
 ]
